@@ -1,0 +1,42 @@
+.button-registro {
+    height: 40px;
+    font-size: 16px;
+    margin: 0;
+    user-select: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    font-family: inherit;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    font-weight: 500;
+    line-height: 20px;
+    word-break: keep-all;
+    color: #212833;
+    border-radius: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    min-height: 24px;
+    border: none;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-image: none;
+    background-color: #FCD535;
+    min-width: 52px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 3%;
+
+}
+
+.button-registro:hover {
+    color: black;
+}
