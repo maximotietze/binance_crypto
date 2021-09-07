@@ -1,0 +1,20 @@
+{
+  "name": "binance_crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch sass/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tietzee/binance_crypto.git"
+  },
+  "author": "Maximo Tietze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tietzee/binance_crypto/issues"
+  },
+  "homepage": "https://github.com/Tietzee/binance_crypto#readme"
+}
